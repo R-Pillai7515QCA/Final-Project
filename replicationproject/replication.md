@@ -1,4 +1,4 @@
-# Final Assessment: Circus Charlie 2.0
+# Final Assessment: Around the world
 
 *Fill out the following workbook with information relevant to your project.*
 
@@ -19,6 +19,13 @@
 
 ![Image](12.jpeg)
 
+*The next step is basically to attach a new base as the previous base was ruined with the incision becoming wider and the motor unable to rotate the cylinder. So I cut another circular base with the same circumference. Keeping the thickness of the base in mind as well, the new base was slightly more thicker to the previous base. Now all that was left for the new, thicker base to be attached to the cylinder.*
+
+![Image](14.jpeg)
+
+*To prevent the tumbling rotation, I came up with an idea to use a shoe box as a platform to install the motor and the cylinder. I firmly taped the DC motor to the base of the shoebox.*
+
+![Image](15.jpeg)
 
 
 ## Project outcome ##
