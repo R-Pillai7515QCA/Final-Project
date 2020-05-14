@@ -11,11 +11,11 @@
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
+*The concept of building toys had always piqued my interest. Although children's toys may look easy to make because some look really plain in nature but the concept and thinking behind every toy making is complex and structured. My goal for the final project is to create a buzzer game with slight modification by installing the element of rotation to it.*
 
-*This should have quite a lot of information!*
+*This project documentation will cover the steps or measures I took for producing the outputs which would include all failed attempts for my project. The toy is a rotating buzzer game fundamentally at it's core.*
 
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+*The cylinder is what I will be using for the rotation game. The cyclinder will be installed in an upright, vertical position with a DC motor attached to the bottom at the base of the cylinder. The center of the base has an incision hole, wide as the circumference as the axis of the motor. Then I tried directly inserting the axis into the incision hole of the base. As expected my attempt failed when I tried rotating it.*
 
 ![Image](missingimage.png)
 
