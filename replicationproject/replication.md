@@ -17,9 +17,9 @@
 
 *The cylinder is what I will be using for the rotation game. The cyclinder will be installed in an upright, vertical position with a DC motor attached to the bottom at the base of the cylinder. The center of the base has an incision hole, wide as the circumference as the axis of the motor. Then I tried directly inserting the axis into the incision hole of the base. As expected my attempt failed when I tried rotating it.*
 
-![Image](missingimage.png)
+![Image](12.jpeg)
 
-*Include screenshots of the code you have used.*
+
 
 ## Project outcome ##
 
