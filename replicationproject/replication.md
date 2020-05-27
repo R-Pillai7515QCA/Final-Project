@@ -33,39 +33,21 @@ The first method I tried was to tape the axle of the motor with the base of the 
 
 Since the incision I made for the axle ended up gettting bigger, I had to cut off the base of the cylinder again and had to cut another base as well. For second method, I planned to make the base of the cylinder as thick as the legth of the axle of the cylinder. So I cut about 5 bases of the same radius and taped them together with the cylinder. This time, for the top most cylinder base, I purposely did not create an incision as to make sure the axle would be able to rotate it. Result: It failed agian.
 
-Finally it struck me. This plan would take some days but I had a gut feeling that it just might work. I had clay. Properties of the clay was that it would be a little sticky (like tape) but would harden if left to dry for a day on anything it is stuck on. Now I decided to make a volcanic like structure solely made out of clay with half the radius of the cylindrical base.
+For my third try, I also used hot glue gun and PVA ( poly vinyl acetate) to bind the axle of the motor more firmly to the cylindrical base. I left it to dry for a few hours and tried rotating the cylindrical base again but it failed.
 
-## Project outcome ##
+Finally it struck me. This plan would take some days but I had a gut feeling that it just might work. I had clay. Properties of the clay was that it would be a little sticky (like tape) but would harden if left to dry for a day on anything it is stuck on. Now I decided to make a volcanic like structure solely made out of clay with half the radius of the cylindrical base. In the volcanic opening of the clay, I put in super glue and immediately fitted the axle of the motor in the hole and left it for a whole day and a half to dry. 
 
-*Complete the following information.*
+![Image](16.jpeg)
 
-### Project title ###
+I took a cylindrical base with the axle hole incision and stuck it with the colcanic clay structure. On the other side of the cylinder, I covered the incision hole with another circular clay mass and taped the cylindrical top to it. I left it for another whole day and a half to dry up.
 
-### Project description ###
+![Image](16.jpeg)
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
-
-### Showcase image ###
-
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
-
-### Additional view ###
-
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
-
-### Reflection ###
-
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+Finally I assembled the cylindrical installlation with the base and tested the rotation of the cylinder with my fingers crossed. Guess what, I finally got the installation to start rotating.
 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 
+## Project outcome & Reflection ##
 
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+I finally got the prototype to rotate on the axle of the DC motor after 3 unsuccessful attempts. I had almost given up hope, there were many times I felt I should come up with other ideas that I could still create and make it work but I kept telling myself to not give up on it. With keeping minimum budget and less facilities that were available to me due to the recent Covid-19 situation, I tried to make use of what was there around me. Also I realised that some steps require a lot of time and then must be implemented for it to work. I also realised that working on projects with another person in the room would leave open to many suggestions that I would give or receive. It was truly fun to spend time on this project as even though I was a bit frustrated with failed outcomes, the journey I had of taking up and implementing new techniques to make my project fun is the main intention of this subject. 
+As they say "It is the little detours we take along the journey, that we enjoy the most, rather than the destination itself."
