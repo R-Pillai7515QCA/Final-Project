@@ -8,9 +8,9 @@ You can fill out the workbook from the GitHub website using markdown language fo
 
 ### Assessment 2 ###
 
-You can edit this workbook here: [Replication Project](/replicationproject/replication.md)
+You can edit this workbook here: [Prototype](/replicationproject/replication.md)
 
 ### Assessment 3 Final Project ###
 
-You can edit this workbook here: [Inventor Kit Experiments](/experiments/experiments.md)
+You can edit this workbook here: [Final Project](/experiments/experiments.md)
 
