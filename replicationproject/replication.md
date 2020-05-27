@@ -1,4 +1,4 @@
-# Final Assessment: Around the world
+# Final Assessment: Touch me not
 
 *Fill out the following workbook with information relevant to your project.*
 
@@ -27,6 +27,13 @@
 
 ![Image](15.jpeg)
 
+Whilst the motor was firmly attached to the base of the shoebox, the axle of the cylinder wasn't. So the cylinder tipped off balance when the motor started to rotate and fell right of the axle. Then I came up with several ways that would help fix the problem. 
+
+The first method I tried was to tape the axle of the motor with the base of the cylinder. Result: It ended up failing as the axle started rotating the tape instead.
+
+Since the incision I made for the axle ended up gettting bigger, I had to cut off the base of the cylinder again and had to cut another base as well. For second method, I planned to make the base of the cylinder as thick as the legth of the axle of the cylinder. So I cut about 5 bases of the same radius and taped them together with the cylinder. This time, for the top most cylinder base, I purposely did not create an incision as to make sure the axle would be able to rotate it. Result: It failed agian.
+
+Finally it struck me. This plan would take some days but I had a gut feeling that it just might work. I had clay. Properties of the clay was that it would be a little sticky (like tape) but would harden if left to dry for a day on anything it is stuck on. Now I decided to make a volcanic like structure solely made out of clay with half the radius of the cylindrical base.
 
 ## Project outcome ##
 
