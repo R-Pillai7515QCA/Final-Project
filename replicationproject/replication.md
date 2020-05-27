@@ -41,11 +41,11 @@ Finally it struck me. This plan would take some days but I had a gut feeling tha
 
 I took a cylindrical base with the axle hole incision and stuck it with the colcanic clay structure. On the other side of the cylinder, I covered the incision hole with another circular clay mass and taped the cylindrical top to it. I left it for another whole day and a half to dry up.
 
-![Image](16.jpeg)
+![Image](17.jpeg)
 
 Finally I assembled the cylindrical installlation with the base and tested the rotation of the cylinder with my fingers crossed. Guess what, I finally got the installation to start rotating.
 
-
+![Image](18.gif)
 
 ## Project outcome & Reflection ##
 
