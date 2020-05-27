@@ -53,38 +53,48 @@ Finally I assembled the cylindrical installlation with the base and tested the r
 
 Now for the second part, that is, to integrate the game with the cylinder rotation. Before integrating, I started to disassemble the protoype and started to paint the cylinder and station with black and red acryllic paint respectively. I also cut a maze made out of foil paper, the length of the maze similar to the circumference of the cylinder, and stuck it to the cylinder using PVA glue.
 
+![Image](19.jpeg)
 
 Now to test the conductivity of the maze, I used a simple LED glow test. I used the following diagram for reference.
 
+![Image](21.png)
 
 By studying the above diagram, I took two wires, positive and negative respectively, and touched them to the foil maze of the cylinder. The LED lit up indicating that the circuit of conductivity is possible.
 
+![Image](23.jpeg)
 
 Now to code the game, I used a microbit and the website makecode.microbit.org and created the following code in it. I downloaded the code in my PC. 
 
+![Image](20.png)
 
 Afterwards I copied the code into the microbit and made the connections respectively. Using Pin P0 as the game trigger, the circuit only completes when P0 is able to get 3V signal. To test it, I used two LEDs Red and Green. Red would indicate that 3V pin is not in contact with the P0 pin and Green would indicate otherwise. The pins I used to connect with the Red and Green LEDs were P1 and P2 respectively according to the code I generated. The connections were made on a bread board and the test ran successful.
+
+![Image](24.gif)
 
 
 Now coming back to the rotation of the cylinder, the cylinder was rotating quite fast for the game to be played. To slow down the rotation of the DC motor, one could use a potentiometer and control the flow of voltage to the DC motor and therefore control the speed of the motor respectively. The connection between the potentiometer and DC motor is shown in the below image.
 
+![Image](22.png)
 
 I used a 1M ohm variable resistor / potentiometer since only that was available at the time. Due to it's low sensitvity, the speed control using the potentiometer proved to be extremely difficult. A potentiometer of 100K ohm would be suitable for a 12V DC motor.
 Anyways I managed to slow down or completely halt the rotation using the potentiometer.
 
-
+![Image](26.gif)
 
 After completing the rotation control, I finally made the final connections. I attached a foil sheet at the bottom of cylinder that would be in constant connection with the wire emerging from 3V pin of the microbit. I made another extending wire that was originating from P0 that would be used by the player to play the game. The level of difficulty would be controlled using the potentiometer. Red light would indicate game over and green would indicate that game is ongoing.
 
-
+![Image](25.gif)
 
 ## Project outcome ##
 
 Initially, I got the prototype to rotate on the axle of the DC motor after 3 unsuccessful attempts. Then after the 4th successful attempt, I got on with the second part of the project which was the game implementation. This part was fairly easy when compared to the initial stages. I had the code and ccircuit ready for the game to be played and rotation control. The link to the game is shown below.
 
+https://youtu.be/wT2qiDDsxRY
+
 ## Reflection ##
 
 I had almost given up hope, there were many times I felt I should come up with other ideas that I could still create and make it work but I kept telling myself to not give up on it. With keeping minimum budget and less facilities that were available to me due to the recent Covid-19 situation, I tried to make use of what was there around me. Also I realised that some steps require a lot of time and then must be implemented for it to work. I also realised that working on projects with another person in the room would leave open to many suggestions that I would give or receive. 
+The project could have been enhanced further by incorporating 3D printing and laser cuttting. Instead of using parts from Pizza boxes, shoeboxes and Toilet rolls, parts could have been 3-D printed. Laser cutting would have also allowed for precise cuts and attaching these two techniques combined would have reduced my time on building the protoype.
 With guidance from my proffessor, I had decided to use a foil maze instead of a wire maze as time was running short. The wire maze would have been a better option but sometimes the project we intend to make do not always go as intended. The initial project intention was quite contrasting from the final project. Given time, resources and facilities, I could have made the project better but again because of the Covid 19 situation, I did not possess the tools necessary to make one. It was truly fun to spend time on this project as even though I was a bit frustrated with failed outcomes, the journey I had of taking up and implementing new techniques to make my project fun is the main intention of this subject. 
 As they say "It is the little detours we take along the journey, that we enjoy the most, rather than the destination itself."
 
